@@ -3,7 +3,8 @@ let details={
  name:"rahul",
  qualification:"M.C.A",
  designation:"Manager",
- Address:{
+ Address:
+ [{
      Flat_no:303,
      wing:"A1",
      society:"Amanora",
@@ -23,6 +24,9 @@ let details={
      society:"Amanora",
      Area:"Hadapsar",
      city:"Pune"
- }
+ }]
+
+ 
 
 }
+console.log(details);
