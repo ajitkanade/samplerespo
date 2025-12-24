@@ -10,11 +10,11 @@ console.log(connectionstring)
 
 //optional chaining operator ?.
 const person={
-     name:"vaibhav",
-     age:25;
+     name : "vaibhav",
+     age:25,
      occupation:"Trainer",
      address :{
-city: "Pune"
+       city: "Pune"
 
      }
 }
